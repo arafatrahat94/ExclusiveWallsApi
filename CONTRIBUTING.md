@@ -1,6 +1,6 @@
-# Contributing to Superiorwalls:
+# Contributing to ExclusiveWalls:
 
-Superiorwalls is an open-source project and welcomes contributions from the community. Here's how you can contribute to the project:
+ExclusiveWalls is an open-source project and welcomes contributions from the community. Here's how you can contribute to the project:
 
 1. Fork the repository.
 2. Create a new branch with a descriptive name (`add-wallpaper`, for example).
@@ -19,8 +19,7 @@ When submitting your wallpapers, please follow these guidelines:
 - The file name of your wallpaper should be descriptive and include your name (for example: `sipun_sunrise.png`).
 - You may submit multiple wallpapers in a single pull request, but please keep them in separate files.
 - Please provide a link to a preview of your wallpaper(s), such as on [Imgur](https://img.doerig.dev).
-- If you would like to include the SuperiorOS logo in your wallpaper, you can find it [here](https://github.com/SuperiorOS/superior_extras/tree/master/Twelve).
 
-By submitting your wallpapers, you grant permission for them to be included in the Superiorwalls app and used by the community.
+By submitting your wallpapers, you grant permission for them to be included in the ExclusiveWalls app and used by the community.
 
-Thank you for your contributions to Superiorwalls!
+Thank you for your contributions to ExclusiveWalls!
